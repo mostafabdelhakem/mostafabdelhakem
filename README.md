@@ -15,11 +15,17 @@
 <hr>
 
 <!-- ABOUT ME -->
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mustafa-gif" width="220" height="230"/></p>
 <h3 align="center">About me:</h3>
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **mostafaabdelhakem7@gmail.com**
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mustafa-gif" width="200" height="200"/></p>
+kjlsdfk
+<br>
+ksdfjklas
+<br>
+sakjdfj;als;kdf
+<br>
+ksadfjklas
+<br>
+E-mail: **mostafaabdelhakem7@gmail.com**
 <br>
 
 <h4 align="left">Languages and Tools:</h4>

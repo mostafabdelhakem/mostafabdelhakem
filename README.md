@@ -19,17 +19,17 @@
 
 <!-- ABOUT ME -->
 <h3 align="center">About me:</h3>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mustafa-gif" width="200" height="200"/></p>
-kjlsdfk
-<br>
-ksdfjklas
-<br>
-sakjdfj;als;kdf
-<br>
-ksadfjklas
-<br>
-E-mail: **mostafaabdelhakem7@gmail.com**
-<br>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="mustafa-gif" width="250" height="260"/></p>
+<ul>
+  <li>Faculty of Engineering</li>
+  <li>Systems and Computer Engnnering Department</li>
+  <li>Have a good knowledge of Python and Java programming Languages</li>
+  <li>Apply my knowledge in the Front-end field that got from courses, training, and side projects</li>
+  <li>Front-end trainee at Information Technology Institute(ITI)</li>
+  <li>Improving my skills in AI and ML field</li>
+  <li>I have some simple AI moudules and projects(NLP, Data Science)</li>
+  <li>AI and Machine Learning trainee at Information Technology Institute(ITI)</li>  
+</ul>
 
 <h4 align="left">Languages:</h4>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>

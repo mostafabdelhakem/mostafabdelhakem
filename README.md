@@ -27,8 +27,8 @@
   <li>Apply my knowledge in the Front-end field that got from courses, training, and side projects</li>
   <li>Front-end trainee at Information Technology Institute(ITI)</li>
   <li>Improving my skills in AI and ML field</li>
-  <li>I have some simple AI moudules and projects(NLP, Data Science)</li>
-  <li>AI and Machine Learning trainee at Information Technology Institute(ITI)</li>  
+  <li>I have some simple AI moudules and projects</li>
+  <li>AI and Machine Learning trainee at infrmation Technology Institute(ITI)</li>  
 </ul>
 
 <h4 align="left">Languages:</h4>

@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h2 align="center">Hello there, I'am Mustafa Abd El-hakem 👋🏼</h2>
+<h2 align="center">Hello there, I'am Mostafa Abd El-hakem 👋🏼</h2>
 <h3  align="center">Computer Engineering Student || Front-end Developer  || AI & ML Enthusiast </h3>
 <hr> 
 

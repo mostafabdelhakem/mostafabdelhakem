@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h2 align="center">Hello there, I'am Mostafa Abd El-hakem 👋🏼</h2>
-<h3  align="center">Computer Engineering Student || Front-end Developer  || AI & ML Enthusiast </h3>
+<h3  align="center">Junior Software Enginner || Curious Learner </h3>
 <hr> 
 
 <!-- CONNECTION -->   

@@ -45,7 +45,7 @@
 <!-- counter image -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=Mostafa-Ahmed-Abdelhakem&theme=radical&margin-h=15&margin-w=7&no-bg=true" alt="TROPHY" />
+    <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=mostafabdelhakem&theme=radical&margin-h=15&margin-w=7&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 

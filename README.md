@@ -49,16 +49,16 @@
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
+<!-- Footer -->
+<h2>💬 Let's Connect!</h2>
+<p align="center">
+  Feel free to reach out for collaborations, opportunities, or just a tech chat!
+</p>
+<p align="center">
+  <i><a href="https://github.com/mostafabdelhakem">Mostafa Abdelhakem</a></i>
+</p>
 
 <!-- SNAKE SVG -->
 <p align="center"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></p>
 
-<h2>💬 Let's Connect!</h2>
 
-<p align="center">
-  Feel free to reach out for collaborations, opportunities, or just a tech chat!
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/mostafabdelhakem">Mostafa Abdelhakem</a></i>
-</p>

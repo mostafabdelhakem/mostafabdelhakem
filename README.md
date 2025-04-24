@@ -16,13 +16,9 @@
 - 🎓 Graduated with a Bachelor's in Electrical Systems & Computer Engineering from Al-Azhar University.
 - 🌱 I thrive on collaboration and continuous improvement, and I love turning ideas into impactful solutions.
 
-<!--
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" width="200" height="200"/></p>
--->
 
----
+<h2>🧰 Tech Stack & Tools</h2>
 
-### 🧰 Tech Stack & Tools
 
 #### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)

@@ -15,10 +15,10 @@
 - ⚡ I've created several projects across medical platforms, booking systems, games, and educational tools.
 - 🎓 Graduated with a Bachelor's in Electrical Systems & Computer Engineering from Al-Azhar University.
 - 🌱 I thrive on collaboration and continuous improvement, and I love turning ideas into impactful solutions.
+<hr>
 
 
 <h2>🧰 Tech Stack & Tools</h2>
-
 
 #### 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -44,6 +44,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+<hr>
 
 <!-- Footer -->
 <h2>💬 Let's Connect!</h2>

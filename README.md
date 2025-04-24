@@ -53,6 +53,7 @@
 <p align="center">
   <i><a href="https://github.com/mostafabdelhakem">Mostafa Abdelhakem</a></i>
 </p>
+<hr>
 
 <!-- SNAKE SVG -->
 <p align="center"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></p>

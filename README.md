@@ -49,31 +49,6 @@
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 
----
-
-<!-- COUNTERS -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=mostafabdelhakem&theme=radical&margin-w=10&no-bg=true" />
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- STATS -->
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafabdelhakem&theme=cobalt&show_icons=true&count_private=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafabdelhakem&theme=dark&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mostafabdelhakem&theme=dark&hide_border=true&layout=compact" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=mostafabdelhakem&label=Profile%20views&color=0e75b6" />
-</div>
 
 <!-- SNAKE SVG -->
 <p align="center"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></p>

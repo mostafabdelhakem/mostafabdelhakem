@@ -8,15 +8,17 @@
 <!-- ABOUT ME -->
 <h3 align="center">👨‍💻 About Me</h3>
 
-- 💼 I'm a passionate Software Engineer with a strong background in both front-end and back-end development.
-- 👨‍🏫 I teach programming and game development to kids at Timedoor Academy — helping the next generation fall in love with tech.
+- 💼 I'm a passionate Software Engineer with a strong front-end and back-end development background.
+- 👨‍🏫 I teach programming and game development to kids at Timedoor Academy, helping the next generation fall in love with tech.
 - 🌐 I specialize in building full stack web apps using **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**.
 - 🧠 Always learning — currently exploring **Data Analysis**, **Power BI**, and diving deeper into **Sass** and **Next.js**.
 - ⚡ I've created several projects across medical platforms, booking systems, games, and educational tools.
 - 🎓 Graduated with a Bachelor's in Electrical Systems & Computer Engineering from Al-Azhar University.
 - 🌱 I thrive on collaboration and continuous improvement, and I love turning ideas into impactful solutions.
 
+<!--
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" width="200" height="200"/></p>
+-->
 
 ---
 
@@ -57,9 +59,8 @@
     <img width="90%" src="https://github-profile-trophy.vercel.app/?username=mostafabdelhakem&theme=radical&margin-w=10&no-bg=true" />
   </a>
 </div>
-<!--
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
--->>
 
 <!-- STATS -->
 <div align="center">

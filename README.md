@@ -2,8 +2,7 @@
 <h2 align="center">
   Hey there! I'm Mostafa Abdelhakem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<h3 align="center"> Software Engineer | Full Stack Developer | Educator | Lifelong Learner </h3>
-<hr>
+<h3 align="center"> Software Engineer & Tech Educator | Full-Stack Developer (React, Next.js, Node.js) | Former President @ Microsoft Tech Club | Lifelong Learner </h3>
 
 <!-- ABOUT ME -->
 <h3 align="center">👨‍💻 About Me</h3>
@@ -12,10 +11,9 @@
 - 👨‍🏫 I teach programming and game development to kids at Timedoor Academy, helping the next generation fall in love with tech.
 - 🌐 I specialize in building full stack web apps using **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**.
 - 🧠 Always learning — currently exploring **Data Analysis**, **Power BI**, and diving deeper into **Sass** and **Next.js**.
-- ⚡ I've created several projects across medical platforms, booking systems, games, and educational tools.
+- ⚡ I've created projects across medical platforms, booking systems, games, and educational tools.
 - 🎓 Graduated with a Bachelor's in Electrical Systems & Computer Engineering from Al-Azhar University.
-- 🌱 I thrive on collaboration and continuous improvement, and I love turning ideas into impactful solutions.
-<hr>
+- 🌱 I thrive on collaboration and continuous improvement and love turning ideas into impactful solutions.
 
 
 <h2>🧰 Tech Stack & Tools</h2>
@@ -44,7 +42,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-<hr>
 
 <!-- Footer -->
 <h2>💬 Let's Connect!</h2>
@@ -54,7 +51,6 @@
 <p align="center">
   <i><a href="https://github.com/mostafabdelhakem">Mostafa Abdelhakem</a></i>
 </p>
-<hr>
 
 <!-- SNAKE SVG -->
 <p align="center"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></p>

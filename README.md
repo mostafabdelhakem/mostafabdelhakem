@@ -1,9 +1,7 @@
-<p>
 ### Hi there 👋 I'm Mostafa Abdelhakem
 A Software Engineer & Tech Educator passionate about building scalable web applications, teaching the next generation of developers, and turning data into meaningful insights.
 
 I enjoy creating impactful digital solutions, optimizing systems, and simplifying complex technical concepts for learners.
-</p>
 
 ---
 

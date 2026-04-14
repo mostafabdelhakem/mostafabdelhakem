@@ -122,7 +122,7 @@ I enjoy creating impactful digital solutions, optimizing systems, and simplifyin
 <p align="center">
   <a href="https://github.com/mostafabdelhakem">GitHub</a> •
   <a href="https://linkedin.com/in/mostafabdelhakem">LinkedIn</a> •
-  <a href="https://mostafabdelhakem.github.io">Portfolio</a> •
+  <a href="https://mostafabdelhakem.github.io">Portfolio</a>
 </p>
 
 ---

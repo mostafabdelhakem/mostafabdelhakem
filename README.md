@@ -1,7 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=mostafabdelhakem&style=flat)
 
 ### Hi there 👋 I'm Mostafa Abdelhakem
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 A Software Engineer & Tech Educator passionate about building scalable web applications, teaching the next generation of developers, and turning data into meaningful insights.
 
 I enjoy creating impactful digital solutions, optimizing systems, and simplifying complex technical concepts for learners.
@@ -131,5 +130,6 @@ I enjoy creating impactful digital solutions, optimizing systems, and simplifyin
 ---
 
 <p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=mostafabdelhakem&style=flat)
   <i>“Building solutions, teaching minds, and continuously evolving.”</i>
 </p>

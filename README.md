@@ -131,6 +131,3 @@ I enjoy creating impactful digital solutions, optimizing systems, and simplifyin
 <p align="center">
   <i>“Building solutions, teaching minds, and continuously evolving.”</i>
 </p>
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=mostafabdelhakem&style=flat)

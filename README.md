@@ -1,58 +1,135 @@
-<!-- HEADER -->
-<h2 align="center">
-  Hey there! I'm Mostafa Abdelhakem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-<h3 align="center"> Software Engineer & Tech Educator | Full-Stack Developer (React, Next.js, Node.js) | Former President @ Microsoft Tech Club | Lifelong Learner </h3>
+![Profile Views](https://komarev.com/ghpvc/?username=mostafabdelhakem&style=flat)
 
-<!-- ABOUT ME -->
-<h3 align="center">👨‍💻 About Me</h3>
+### Hi there 👋 I'm Mostafa Abdelhakem
 
-- 💼 I'm a passionate Software Engineer with a strong front-end and back-end development background.
-- 👨‍🏫 I teach programming and game development to kids at Timedoor Academy, helping the next generation fall in love with tech.
-- 🌐 I specialize in building full stack web apps using **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**.
-- 🧠 Always learning — currently exploring **Data Analysis**, **Power BI**, and diving deeper into **Sass** and **Next.js**.
-- ⚡ I've created projects across medical platforms, booking systems, games, and educational tools.
-- 🎓 Graduated with a Bachelor's in Electrical Systems & Computer Engineering from Al-Azhar University.
-- 🌱 I thrive on collaboration and continuous improvement and love turning ideas into impactful solutions.
+A Software Engineer & Tech Educator passionate about building scalable web applications, teaching the next generation of developers, and turning data into meaningful insights.
 
+I enjoy creating impactful digital solutions, optimizing systems, and simplifying complex technical concepts for learners.
 
-<h2>🧰 Tech Stack & Tools</h2>
+---
 
-#### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+### ⚡ About Me
 
-#### 🌐 Front-End
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+- 💻 Full-Stack Developer specializing in **React, Next.js, Node.js, and MongoDB**
+- 👨‍🏫 Programming Instructor at **Timedoor Academy** (teaching students aged 5–18)
+- 📊 Currently exploring **Data Analysis, Power BI, and AI integration**
+- 🧠 Strong foundation in **Data Structures, Algorithms, and System Design**
+- 🚀 Former **President @ Microsoft Tech Club (370+ members)**
+- 🌍 Built and contributed to platforms in **healthcare, education, and business systems**
+- 🎯 Passionate about **education, scalability, and real-world problem solving**
 
-#### 🗄️ Back-End & Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
+---
+
+### 🧠 Interests
+
+- 📊 Data Analytics & Visualization  
+- 🤖 Artificial Intelligence & Automation  
+- ☁️ Cloud Computing & Scalable Systems  
+- 🌐 Full-Stack Web Development  
+- 🎓 Tech Education & Mentorship  
+
+---
+
+### 💼 Experience Snapshot
+
+- 👨‍🏫 **Programming Instructor @ Timedoor Academy**
+  - Teaching programming, AI basics, and development to students
+  - Designing interactive, project-based learning experiences
+
+- 🧑‍💼 **Community Manager @ E-Spaces**
+  - Managed operations, client experience, and data-driven improvements
+
+- 🏆 **President @ Microsoft Tech Club**
+  - Led 370+ members and 16+ projects per season  
+  - Delivered workshops impacting 3000+ students  
+  - Built and launched the club’s website and digital platforms  
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs" />
+</p>
+
+#### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,sass,bootstrap,html,css" />
+</p>
+
+#### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+#### 📊 Data & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Power BI  
+- Pandas, NumPy  
+- Data Visualization & Statistical Analysis  
+- Prompt Engineering & AI Integration  
 
 #### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-
-<!-- Footer -->
-<h2>💬 Let's Connect!</h2>
-<p align="center">
-  Feel free to reach out for collaborations, opportunities, or just a tech chat!
-</p>
-<p align="center">
-  <i><a href="https://github.com/mostafabdelhakem">Mostafa Abdelhakem</a></i>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,figma" />
 </p>
 
-<!-- SNAKE SVG -->
-<p align="center"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></p>
+---
 
+### 🚀 Featured Projects
 
+#### 🏥 Dawini Medical Platform
+- Full-stack healthcare platform with dashboards and analytics  
+- Built using **React, Node.js, MongoDB, Tailwind**  
+
+#### 🛒 Product Store (E-commerce)
+- MERN stack application with authentication and product management  
+
+#### 🌐 MSP Tech Club Website
+- Led development and strategy as President  
+- Improved engagement and accessibility  
+
+#### ✈️ Travel App
+- Interactive travel platform with real-time data  
+- Built using **React + TypeScript**
+
+---
+
+### 📜 Certifications
+
+- 📊 Microsoft & LinkedIn – Data Analysis Career Essentials  
+- 🤖 One Million Prompters – Dubai Future Foundation  
+- ☁️ Microsoft Azure Fundamentals  
+- 💻 ITI Frontend & Backend Development Programs  
+- 🧠 McKinsey Forward Program  
+
+---
+
+### 🏆 Key Achievements
+
+- 🚀 Led a **370-member tech organization**
+- 👨‍🏫 Reached **3000+ students through workshops**
+- 🧩 Delivered **scalable full-stack applications**
+- 📊 Built **data-driven systems for education & business**
+- 🎯 Designed **AI curriculum for K-12 students**
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mostafabdelhakem">GitHub</a> •
+  <a href="https://linkedin.com/in/mostafabdelhakem">LinkedIn</a> •
+  <a href="https://mostafabdelhakem.github.io">Portfolio</a> •
+  <a href="https://linktr.ee/mostafabdelhakem">All Links</a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Building solutions, teaching minds, and continuously evolving.”</i>
+</p>

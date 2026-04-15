@@ -76,37 +76,6 @@ I enjoy creating impactful digital solutions, optimizing systems, and simplifyin
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite,figma" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-#### 🏥 Dawini Medical Platform
-- Full-stack healthcare platform with dashboards and analytics  
-- Built using **React, Node.js, MongoDB, Tailwind**  
-
-#### 🛒 Product Store (E-commerce)
-- MERN stack application with authentication and product management  
-
-#### 🌐 MSP Tech Club Website
-- Led development and strategy as President  
-- Improved engagement and accessibility  
-
-#### ✈️ Travel App
-- Interactive travel platform with real-time data  
-- Built using **React + TypeScript**
-
----
-
-### 📜 Certifications
-
-- 📊 Microsoft & LinkedIn – Data Analysis Career Essentials  
-- 🤖 One Million Prompters – Dubai Future Foundation  
-- ☁️ Microsoft Azure Fundamentals  
-- 💻 ITI Frontend & Backend Development Programs  
-- 🧠 McKinsey Forward Program  
-
----
-
 ### 🏆 Key Achievements
 
 - 🚀 Led a **370-member tech organization**

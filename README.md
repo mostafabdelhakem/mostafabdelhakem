@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mostafa Abdelhakem
 
-A **Software Engineer & Tech Educator** based in the 🇦🇪 UAE — building real-world tools,
+A **Software Engineer & Tech Educator** based in UAE — building real-world tools,
 designing AI-integrated curricula, and preparing the next generation of developers.
 
 ---
@@ -8,12 +8,11 @@ designing AI-integrated curricula, and preparing the next generation of develope
 ### ⚡ About Me
 
 - 👨‍🏫 **Tech Educator @ Al Wahda Foundation** (in partnership with Athena Education)
-- 🤖 Designing structured **AI Literacy curricula** aligned with CSTA standards and UAE Vision 2031
-- 🛠️ Built a full **web-based classroom observation tool** for school leadership — with PDF export, auto-save & keyboard shortcuts
+- 🤖 Designing structured **AI Literacy curricula** aligned with UAE Vision 2031
 - 💻 Full-Stack Developer with experience in **React, Next.js, Node.js, and MongoDB**
 - 📊 Exploring **Data Analysis, Power BI, and AI integration in education**
 - 🧠 Strong foundation in **Data Structures, Algorithms, and System Design**
-- 🚀 Former **President @ Microsoft Tech Club** (370+ members)
+- 🚀 Former **President @ Microsoft Tech Club**
 
 ---
 
